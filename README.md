@@ -1,3 +1,5 @@
+**NOTE**: _This repository is no longer supported or updated.  As of Mar 2025 PPOD's Cybercom Celery task has been removed from CTA Production servers.  ProQuest is no longer providing an API to submit single print orders._
+
 ppodq Queue
 ======================
 
